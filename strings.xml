@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Googlemap</string>
 
-    <string name="my_map_api_key">AIzaSyBbA3tC4SnPU3_j8K9PQx1dpS_XGUVprRs</string>
+    <string name="my_map_api_key">#Use Your API key from Google cloud console#</string>
 </resources>
